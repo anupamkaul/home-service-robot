@@ -16,5 +16,5 @@ export CMAKE_PREFIX_PATH="/home/anupam/home-service-robot/task/devel:$CMAKE_PREF
 export LD_LIBRARY_PATH="/home/anupam/home-service-robot/task/devel/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/anupam/home-service-robot/task/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/anupam/home-service-robot/task/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/anupam/home-service-robot/task/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/anupam/home-service-robot/task/devel/share/common-lisp"
 export ROS_PACKAGE_PATH="/home/anupam/home-service-robot/task/src:$ROS_PACKAGE_PATH"

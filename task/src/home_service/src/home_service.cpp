@@ -55,9 +55,9 @@ public:
         marker.scale.z = 0.25;
 
         // Set the color -- red --  be sure to set alpha to something non-zero!
-        marker.color.r = 1.0f;
+        marker.color.r = 0.0f;
         marker.color.g = 0.0f;
-        marker.color.b = 0.0f;
+        marker.color.b = 1.0f;
         marker.color.a = 1.0;
 
         // Set marker's initial coordinates 
