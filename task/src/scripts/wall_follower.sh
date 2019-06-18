@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # setup up search directories
-catkin_dir=/home/anupam/robond/samples/service_robot/workspace/catkin_ws
+catkin_dir=/home/anupam/home-service-robot/task
 catkin_src_dir=$catkin_dir/src
 
 #Launch turtlebot in my custom world

@@ -1,4 +1,4 @@
-Folder "task5" contains my project for the home service robot.
+Folder "task" contains my project for the home service robot.
 
 The robot is turtlebot and the world is my original world that I have been using since the first project.
 
